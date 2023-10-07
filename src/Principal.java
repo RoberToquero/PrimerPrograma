@@ -1,5 +1,3 @@
-import java.sql.SQLOutput;
-
 public class Principal {
     public static void main(String[] args) {
         /*PRIMERA PARTE: MODIFICAR COLOR DEL TEXTO
@@ -37,7 +35,7 @@ public class Principal {
 
 
         System.out.println("*************************************************************************");
-        //Introducir caracteres UNICODE con el comando \u
+        //Introducir caracteres UNICODE con el comando
         System.out.println("Dos corcheas \u266B");
         // Salto de línea con \n
         System.out.println("Roberto Toquero\nCalle Comuneros de Castilla Nº1,1ºC\nTlfn:692374739");
@@ -79,4 +77,4 @@ public class Principal {
 
     }
 }
-}
+

@@ -66,6 +66,7 @@ public class Principal {
         System.out.println("  *   *");
         System.out.println("   * *");
         System.out.println("    *");
+        // Chorradas varias
 
         System.out.println("                  \uD83D\uDE04     ██");
         System.out.println("   REALIZADO POR MI    ██");
